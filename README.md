@@ -24,9 +24,12 @@ The bot supports memory and can hold context-aware conversations.
 
 1\. Clone the repository
 
-2\. Install dependencies:
+2\. Install dependencies & libraries:
+pip install -r requirements.txt
+pip install langchain openai python-dotenv
+pip install langchain langchain-community langchain-openai
 
-&nbsp;  pip install -r requirements.txt
+
 
 3\. Add your OpenAI API key in .env file
 
@@ -39,6 +42,7 @@ The bot supports memory and can hold context-aware conversations.
 \## Author
 
 Siri Vaishnavi Illa
+
 
 
 
