@@ -25,9 +25,9 @@ The bot supports memory and can hold context-aware conversations.
 1\. Clone the repository
 
 2\. Install dependencies & libraries:
-pip install -r requirements.txt
-pip install langchain openai python-dotenv
-pip install langchain langchain-community langchain-openai
+\. pip install -r requirements.txt
+\. pip install langchain openai python-dotenv
+\. pip install langchain langchain-community langchain-openai
 
 
 
@@ -42,6 +42,7 @@ pip install langchain langchain-community langchain-openai
 \## Author
 
 Siri Vaishnavi Illa
+
 
 
 
