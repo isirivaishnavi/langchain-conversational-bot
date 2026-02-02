@@ -36,6 +36,10 @@ pip install langchain langchain-community langchain-openai
 
 3\. Add your OpenAI API key in .env file
 
+then edit the main.py file at load_dotenv() put your env file name
+
+example - load_dotenv("yourfile.env")
+
 4\. Run:
 
 &nbsp;  python main.py
@@ -45,6 +49,7 @@ pip install langchain langchain-community langchain-openai
 \## Author
 
 Siri Vaishnavi Illa
+
 
 
 
